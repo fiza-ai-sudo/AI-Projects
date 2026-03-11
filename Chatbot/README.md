@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/fiza-ai-sudo/AI-Projects/blob/main/Chatbot/Smart_bot.ipynb)
 # Chatbot Project
 
 ## Description
